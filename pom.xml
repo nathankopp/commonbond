@@ -8,6 +8,12 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>com.sun.jersey</groupId>
+			<artifactId>jersey-server</artifactId>
+			<version>1.8</version>
+		</dependency>
+            
+		<dependency>
 		     <groupId>org.hibernate</groupId>
 		     <artifactId>hibernate-validator</artifactId>
 		     <version>4.2.0.Final</version>
