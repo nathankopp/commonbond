@@ -15,7 +15,6 @@ import javax.ws.rs.ext.Provider;
 
 import org.apache.commons.io.IOUtils;
 import org.kopptech.commonbond.BindingNode;
-import org.kopptech.commonbond.JsonTemplate;
 import org.kopptech.commonbond.ObjUtils;
 import org.kopptech.commonbond.json.JsonBindingReader;
 import org.kopptech.commonbond.json.JsonBindingSerializer;

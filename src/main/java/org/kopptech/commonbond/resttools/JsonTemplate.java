@@ -1,4 +1,4 @@
-package org.kopptech.commonbond;
+package org.kopptech.commonbond.resttools;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
