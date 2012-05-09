@@ -1,0 +1,41 @@
+{
+	"val1t": "val1",
+	"val2t": {"var": "val2"},
+	"obj1t_x": { "ognl": "obj1.x"},
+	"obj1t_y": { "el": "obj1.y"},
+	"obj1t": { "ognl": "obj1",
+		"newInstanceClass":"com.mostlynumbers.binding.ChildObj",
+		"obj": {
+			"xt": "x",
+			"yt": "y"
+		}
+	},
+	"obj1t2": { "el": "obj1",
+		"obj": {
+			"xt": "x",
+			"yt": "y"
+		}
+	},
+	"list1t": { "bind": "list1",
+		"input" : "HYBRID_AUTO",
+		"list": {
+			"xt": "x",
+			"yt": "y"
+		}
+	},
+	"prop_in_obj_in_list" : {"el" : "list1[0].x"},
+	"obj_in_list" : {"el" : "list1[0]",
+		"obj": {
+			"xt": "x",
+			"yt": "y"
+		}
+	},
+	"prop_in_obj_in_list2" : {"ognl" : "list1[0].x"},
+	"obj_in_list2" : {"ognl" : "list1[0]",
+		"newInstanceClass":"com.mostlynumbers.binding.ChildObj",
+		"obj": {
+			"xt": "x",
+			"yt": "y"
+		}
+	}
+}

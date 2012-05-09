@@ -1,0 +1,17 @@
+{
+	"val1t": {"el":"val1"},
+	"val2t": {"el": "val2"},
+	"obj1t": { "el": "obj1",
+		"obj": {
+			"xt": {"el":"x"},
+			"yt": {"el":"y"}
+		}
+	},
+	"list1t": { "var": "list1",
+		"input" : "HYBRID_AUTO",
+		"list": {
+			"xt": {"el":"x"},
+			"yt": {"el":"y"}
+		}
+	}
+}

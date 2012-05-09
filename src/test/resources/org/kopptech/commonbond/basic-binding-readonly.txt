@@ -1,0 +1,4 @@
+{
+	"val1t": "val1",
+	"val2t": {"var": "val2", "readOnly":true}
+}

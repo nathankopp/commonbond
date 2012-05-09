@@ -1,0 +1,17 @@
+{
+	"listWithIds": { "bind": "listWithIds",
+		"input" : "EDIT_BY_ID",
+		"list": {
+			"id": true,
+			"data": true,
+			"tagToIgnore": false
+		}
+	},
+	"listWithoutIds": { "bind": "listWithoutIds",
+		"input" : "EDIT_BY_ORDER",
+		"list": {
+			"x": "x",
+			"y": "y"
+		}
+	}
+}

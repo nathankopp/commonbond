@@ -1,0 +1,16 @@
+{
+	"listWithIds": { "bind": "listWithIds",
+		"input" : "HYBRID_BY_ID",
+		"list": {
+			"id": "id",
+			"data": "data"
+		}
+	},
+	"listWithoutIds": { "bind": "listWithoutIds",
+		"input" : "HYBRID_BY_ORDER",
+		"list": {
+			"x": "x",
+			"y": "y"
+		}
+	}
+}

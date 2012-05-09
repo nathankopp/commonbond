@@ -1,0 +1,8 @@
+{
+	"input" : "HYBRID_AUTO",
+	"newInstanceClass" : "com.mostlynumbers.binding.ChildObj",
+	"list": {
+		"xt": "x",
+		"yt": "y"
+	}
+}

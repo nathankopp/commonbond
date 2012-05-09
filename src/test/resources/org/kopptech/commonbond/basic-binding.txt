@@ -1,0 +1,17 @@
+{
+	"val1t": "val1",
+	"val2t": {"var": "val2"},
+	"obj1t": { "prop": "obj1",
+		"obj": {
+			"xt": "x",
+			"yt": "y"
+		}
+	},
+	"list1t": { "bind": "list1",
+		"input" : "HYBRID_AUTO",
+		"list": {
+			"xt": "x",
+			"yt": "y"
+		}
+	}
+}

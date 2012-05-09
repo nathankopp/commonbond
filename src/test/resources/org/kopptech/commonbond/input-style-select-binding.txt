@@ -1,0 +1,9 @@
+{
+	"listWithIds": { "bind": "listWithIds",
+		"input" : "SELECT_BY_ID",
+		"list": {
+			"id": "id",
+			"data": "data"
+		}
+	}
+}
